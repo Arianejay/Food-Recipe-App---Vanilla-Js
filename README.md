@@ -1,4 +1,4 @@
-# Food-Recipe-API
+# Food-Recipe-App-Vanila-Js
 A Food Recipe API built with Vanilla Javascript, it fetches the data from a third party API. 
 
 You can search from a variety of ingredients. 
